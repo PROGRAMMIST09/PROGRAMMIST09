@@ -1,15 +1,15 @@
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi;+my+name+is+Otabek;+and+I'm+a+.NET+developer!">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi;+my+name+is+Madina;+and+I'm+a+.NET+developer!">
 </h3>
 
 ###
 
-<a href="https://github.com/OtabekgithubJava/OtabekgithubJava">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OtabekgithubJava&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height=200 alt="languages graph" />
+<a href="https://github.com/PROGRAMMIST09/PROGRAMMIST09">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PROGRAMMIST09&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height=200 alt="languages graph" />
 </a>
 
-<a href="https://github.com/OtabekgithubJava/OtabekgithubJava">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OtabekgithubJava&show_icons=true&line_height=30&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="<CUSTOMIZE>" />
+<a href="https://github.com/PROGRAMMIST09/PROGRAMMIST09">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PROGRAMMIST09/PROGRAMMIST09&show_icons=true&line_height=30&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="<CUSTOMIZE>" />
 </a>
 
 <hr>
@@ -51,46 +51,28 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/mr-otabek-13a3aa275/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/Otabek_writing" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=26A5E4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  <a href="https://twitter.com/Otabek_twitting" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/m_otabek_007/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:meliqoziyevotabek66@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
 <h2 align="center">⚡️ Stats ⚡️</h2>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Profile+views">
 </h3>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/OtabekgithubJava/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/PROGRAMMIST09/count.svg?"  />
 </div>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=OtabekgithubJava&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://streak-stats.demolab.com/?user=PROGRAMMIST09&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   
   <br/>
  <br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=OtabekgithubJava&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=PROGRAMMIST09&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 <h3 align="center">🐍 Contribution Snake 🐍</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/OtabekgithubJava/OtabekgithubJava/output/github-contribution-grid-snake.svg" alt="Snake animation" style="background: #1d1f21; border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,255,255,0.7);">
+  <img src="https://raw.githubusercontent.com/PROGRAMMIST09/PROGRAMMIST09/output/github-contribution-grid-snake.svg" alt="Snake animation" style="background: #1d1f21; border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,255,255,0.7);">
 </div>
 
 <hr/>
